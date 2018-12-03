@@ -116,7 +116,7 @@ a:visited {
     }
 }
 .navbar-default {
-    background-color: transparent;
+    background-color: #f3f3f3;
     border-color: transparent;
 }
 .navbar-default.color-fill {
@@ -151,7 +151,7 @@ a:visited {
     background-color: #222;
 }
 .icon-bar.inverted {
-    background-color: #fff;
+    background-color: #000;
 }
 @media (max-width: 992px) {
     .icon-bar.inverted {
@@ -524,3 +524,8 @@ a:visited {
     height: 100vh!important;
     object-fit: cover;
 }
+
+/*.iframe{
+    /*margin-top: 85px;
+    display: block;
+}*/
